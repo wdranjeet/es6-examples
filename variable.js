@@ -1,5 +1,8 @@
 /**
- * let is used in place of var in es6, it is also block scoping variable see example
+ * @file variable.js
+ * let is used in place of var in es6, it is also block scoping variable
+ * @see example
+ *
  */
 
 let a = 5;

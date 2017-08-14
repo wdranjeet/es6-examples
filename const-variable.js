@@ -1,4 +1,5 @@
 /**
+ * @file const-variable.js
  * In ES6 a new key const is used to declare the variable, constant variable can not be re-assigned
  */
 
